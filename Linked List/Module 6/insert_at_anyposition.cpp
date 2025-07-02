@@ -39,7 +39,6 @@ int main()
     Node* b = new Node(20);
     Node* c = new Node(30);
     
- 
     head->next = b;
     b->next = c;
     
